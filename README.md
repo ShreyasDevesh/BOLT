@@ -24,7 +24,7 @@ The purpose is to guarantee that INDO-LLaMA improves cross-cultural understandin
 
 Finally, the goal is to produce a dependable and complex tool that fosters cultural interaction, supports proper interpretation of ancient Indian writings, and helps to solve current concerns such as misinterpretations that lead to societal disputes and injustices.
 
-#video-link
+# Video-link : 
 https://www.youtube.com/watch?v=EQ1U-xiGt4k&list=PL_ROZK0B9gVv7h8Tg1vDtxWS-YltLAxqd&index=1&t=12s
 
 # RESULTS :
