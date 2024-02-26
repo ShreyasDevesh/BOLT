@@ -7,7 +7,7 @@ In today's linked world, overcoming linguistic boundaries is critical for creati
 
 Current language translation methods, while beneficial, sometimes lack accuracy and subtlety, resulting in ineffective communication and probable mistakes. Ancient texts from India have a history of misinterpretation resulting in prevailing issues such as the caste system and clashes of minds and racesowing to the same problem. 
 
-APPROACH :
+# APPROACH :
 
 In our proposed solution, we will be using Large language model Meta-AI’s or LLaMA’s. These are sophisticated artificial intelligence systems that rely on large-scale language models (LLMs) as their primary component. These meta-AIs are intended to do a variety of activities, including but not limited to natural language comprehension, creation, translation, summarisation, and more.
 
@@ -16,7 +16,7 @@ LLaMA’s are artificial intelligence systems that combine the capabilities of l
 LLaMA’s combined with a tool called the tokenizer is used to effectively form groups in sentences just as humans perceive textual and auditory data. This added human-like touch is what sets this solution apart. The fact that text isn’t interpreted word to word but sentencewise  (group to group) results in more accurate and logical translation. 
 
 
-TARGET :
+# TARGET :
 
 To create and deploy INDO-LLaMA, a language translation system that combines Large Language Model Meta-AIs (LLaMAs) with sophisticated tokenization techniques to successfully overcome linguistic barriers, allowing for accurate and nuanced communication across languages. 
 
