@@ -23,3 +23,9 @@ To create and deploy INDO-LLaMA, a language translation system that combines Lar
 The purpose is to guarantee that INDO-LLaMA improves cross-cultural understanding, promotes cooperation, and reduces the possibility of misinterpretations, inefficiencies, and misunderstandings caused by language variety. 
 
 Finally, the goal is to produce a dependable and complex tool that fosters cultural interaction, supports proper interpretation of ancient Indian writings, and helps to solve current concerns such as misinterpretations that lead to societal disputes and injustices.
+
+# RESULTS :
+
+These are the results of the program after input of the first lecture as input. 
+
+![Copy of Intel Idea Submission Template (2)](https://github.com/ShreyasDevesh/BOLT/assets/77879410/fa5f624f-7b87-4f60-b65a-eb32ed495418)
