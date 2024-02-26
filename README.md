@@ -1,4 +1,4 @@
-# LANGUAGE TRANSLATOR - INDO-LLaMA
+# LANGUAGE TRANSLATOR USING INDO-LLaMA
 
 ![cover](https://github.com/ShreyasDevesh/BOLT/assets/77879410/9f15c8c9-d0d6-472c-b396-cf075c3d31be)
 
