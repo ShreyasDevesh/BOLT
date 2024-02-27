@@ -34,7 +34,7 @@ These are the results of the program after input of the first lecture as input.
 
 A pre-trained model was used to make the translator which could be used on multiple national(Indian) as well as foreign languages. There is provision of a concise summary to understand the gist of the content.Due to use of INTEL’s Xeon VM, computation time is reduced. Large volumes of data can be stored on the **INTEL cloud**. **Intel's extension of** present tools like **pytorch(IPEX)** and **transform** have been used.
 
-# OTHER LINKS
+## OTHER LINKS
 
 Medium : [https://medium.com/@mihir.m.dixit/language-translator-using-indo-llama-09d26ad2c107](Medium_Link)
 
