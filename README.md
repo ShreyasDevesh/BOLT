@@ -32,3 +32,11 @@ https://www.youtube.com/watch?v=EQ1U-xiGt4k&list=PL_ROZK0B9gVv7h8Tg1vDtxWS-YltLA
 These are the results of the program after input of the first lecture as input. 
 
 ![Copy of Intel Idea Submission Template (2)](https://github.com/ShreyasDevesh/BOLT/assets/77879410/fa5f624f-7b87-4f60-b65a-eb32ed495418)
+
+A pre-trained model was used to make the translator which could be used on multiple national(Indian) as well as foreign languages. There is provision of a concise summary to understand the gist of the content.Due to use of INTEL’s Xeon VM, computation time is reduced. Large volumes of data can be stored on the INTEL cloud. Intel's extension of present tools like pytorch(IPEX) and transform have been used.
+
+# OTHER LINKS
+
+Medium : [https://medium.com/@mihir.m.dixit/language-translator-using-indo-llama-09d26ad2c107](Medium_Link)
+
+Linkedin post : [https://www.linkedin.com/feed/update/urn:li:activity:7167862208448724992?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7167862208448724992%29](Linkedin_Link)
