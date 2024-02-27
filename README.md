@@ -25,7 +25,6 @@ The purpose is to guarantee that INDO-LLaMA improves cross-cultural understandin
 Finally, the goal is to produce a dependable and complex tool that fosters cultural interaction, supports proper interpretation of ancient Indian writings, and helps to solve current concerns such as misinterpretations that lead to societal disputes and injustices.
 
 # Video-link : 
-https://www.youtube.com/watch?v=EQ1U-xiGt4k&list=PL_ROZK0B9gVv7h8Tg1vDtxWS-YltLAxqd&index=1&t=12s
 
 # RESULTS :
 
@@ -38,5 +37,7 @@ A pre-trained model was used to make the translator which could be used on multi
 # OTHER LINKS
 
 Medium : [https://medium.com/@mihir.m.dixit/language-translator-using-indo-llama-09d26ad2c107](Medium_Link)
+
+Youtube : [https://www.youtube.com/watch?v=EQ1U-xiGt4k&list=PL_ROZK0B9gVv7h8Tg1vDtxWS-YltLAxqd&index=1&t=12s](Youtube_Link)
 
 Linkedin post : [https://www.linkedin.com/feed/update/urn:li:activity:7167862208448724992?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7167862208448724992%29](Linkedin_Link)
