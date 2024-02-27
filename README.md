@@ -40,6 +40,8 @@ Medium : [https://medium.com/@mihir.m.dixit/language-translator-using-indo-llama
 
 Youtube : [https://www.youtube.com/watch?v=EQ1U-xiGt4k&list=PL_ROZK0B9gVv7h8Tg1vDtxWS-YltLAxqd&index=1&t=12s](Youtube_Link)
 
-Linkedin post : [https://www.linkedin.com/feed/update/urn:li:activity:7167862208448724992?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7167862208448724992%29](Linkedin_Link)
-                [https://www.linkedin.com/posts/aman-kumar-413838239_language-translator-using-indo-llama-activity-7167866669606916096-mmR8/?utm_source=share&utm_medium=member_desktop](url)
-                [https://www.linkedin.com/posts/shreyas-devesh-106409138_language-translator-using-indo-llama-activity-7167919018329169920-2E0N?utm_source=share&utm_medium=member_desktop](url)
+Linkedin post[MIHIR DIXIT] : [https://www.linkedin.com/feed/update/urn:li:activity:7167862208448724992?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7167862208448724992%29](Linkedin_Link)
+
+Linkedin post[AMAN KUMAR] : [https://www.linkedin.com/posts/aman-kumar-413838239_language-translator-using-indo-llama-activity-7167866669606916096-mmR8/?utm_source=share&utm_medium=member_desktop](url)
+
+Linkedin post[SHREYAS DEVESH] : [https://www.linkedin.com/posts/shreyas-devesh-106409138_language-translator-using-indo-llama-activity-7167919018329169920-2E0N?utm_source=share&utm_medium=member_desktop](url)
